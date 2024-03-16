@@ -1,0 +1,5 @@
+alert("Vamos somar os seguintes números e depois dividir por 2: ")
+let N1 = prompt("Digite um número para a soma: ")
+let N2 = prompt("Digite o segundo número para a soma: ")
+results = ((Number(N1) + Number(N2)) / 2)
+alert("O resultado é " + results)
